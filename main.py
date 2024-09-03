@@ -22,7 +22,7 @@ max_port = 65535
 
 site = str(input('Digite o site ou IP que deseja realizar o PortScan: '))
 
-tipo = input('Você deseja procurar por algumas portas específicas ou por um intervalo?\n [1] Especificar (separadas por espaço) \n [2] Intervalo ').strip()
+tipo = input('Você deseja procurar por algumas portas específicas ou por um intervalo?\n [1] Especificar (separadas por espaço) \n [2] Intervalo \n ').strip()
 
 portas = []
 
