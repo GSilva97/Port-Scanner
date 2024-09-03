@@ -35,6 +35,7 @@ Um simples scanner de portas feito em Python, que permite escanear portas espec�
  •Escolha entre escanear portas específicas ou um intervalo de portas.
  
  •O resultado mostrará as portas abertas.
+ ![PortScanner Image](/PortScanner.png "PortScanner Image")
 ##
 
 
